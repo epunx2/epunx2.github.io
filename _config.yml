@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Coding Journeys with Eric
 header-img: img/home-bg.png
 email: eric@ericchrobak.com
 copyright_name: epunx2
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning how to code!
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  epunx2
