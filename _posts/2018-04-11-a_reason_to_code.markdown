@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "A Reason to Code"
-date:       2018-04-12 00:35:43 +0000
+date:       2018-04-11 20:35:43 -0400
 permalink:  a_reason_to_code
 ---
 
@@ -11,7 +11,7 @@ My journey to coding started back in the mid to late 90's. My mother was a singl
 
 I really enjoyed the challenge of solving problems and fixing things. When I went to college in 2002 I started learning Java and Visual Basic as I thought I would go into programming to make money and have an easy job. It wasn't easy and I ended up quiting the CS degree. I wasn't ready to work hard yet. I floated around for the next 4 years. I became frustrated with the lack of progress in my life. I am a praying man and after praying felt like God directed me to go to a theological school. So I went to a Bible College in downtown Chicago to pursue an undergraduate in the Bible. While there I worked at the IT department's helpdesk. My colleagues would often jump into some terminal or coding language to resolve issues that came up. At the time I didn't imagine that I could do the same thing and thought you needed to spend 4 years learning these things. 
 
-After finishing college I began working at a small Gutter Cleaning and repair company in Chicago. After several years working there I felt like I wasn't moving forward and needed to learn some more skills . I spent time praying and asked some friends and acquantices if they had recommendations. A high school friend recommended learning coding. He had been doing CAD drafting for 10 years and then taught himself Javascript. After investing his hard earned money in Starbuck's stock(he bought a lot of coffee to stay up at night learning to code!) he eventually was hired as a Javascript developer at a software company. When I visited him at his office I thought I if invest my money in Starbucks and stay up late learning to code then maybe one day I will be that guy sitting in a coffee shop sipping a latte with my Macbook writing code!  
+After finishing college I began working at a small Gutter Cleaning and repair company in Chicago. After several years working there I felt like I wasn't moving forward and needed to learn some more skills. I spent time praying and asked some friends and acquantices if they had recommendations. A high school friend recommended learning coding. He had been doing CAD drafting for 10 years and then taught himself Javascript. After investing his hard earned money in Starbuck's stock(he bought a lot of coffee to stay up at night learning to code!) he eventually was hired as a Javascript developer at a software company. When I visited him at his office I thought I if invest my money in Starbucks and stay up late learning to code then maybe one day I will be that guy sitting in a coffee shop sipping a latte with my Macbook writing code!  
 
 I started some free classes on Codecademy. It was slow going for awhile but, I had a strong sense this was a good direction to go. I found the more I was coding and learning the more I wanted to learn. Solving coding challenges wasn't work to me. It was like playing a video game. Some friends mentioned that there were schools where you studied programming all day for 3 months and then you would be prepared to build software and be employable. I tought that was a great idea so I researched different schools. I attended a few info sessions on some here in Chicago. 
 
