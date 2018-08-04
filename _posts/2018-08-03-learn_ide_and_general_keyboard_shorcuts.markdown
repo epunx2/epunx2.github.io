@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "LEARN IDE & General Keyboard Shorcuts"
-date:       2018-08-04 00:58:15 +0000
+date:       2018-08-03 20:58:16 -0400
 permalink:  learn_ide_and_general_keyboard_shorcuts
 ---
 
@@ -11,13 +11,13 @@ I love that coding and programming involves shortcuts to increase productivity.
 One of my favorite shortcuts while working on a computer is keyboard shorctus!
 
 
-I am going to describe some common ones and then show the ones more specific to the Learn IDE.
-These shortcuts use mainly the Command/Control key which is located on the lower left of your keyboard.
+I will provide some common ones and then those more specific to Learn IDE.
 
-CMD/⌘ - this is the Command/ button the mac. PC users this will be your Ctrl(Control) key
+CMD/⌘ - this is the Command/ button on the mac. PC users use your Ctrl(Control) key.
+These are is located on the lower left of your keyboard.
 
-Shortcuts will be in the following format: CMD + ;
-That means press the CMD button and press the ";" key. 
+**Instructions:** 
+CMD + ; - press the CMD button and press the ";" key. 
 Don't press the + key. I added that to separate the two keys visually. 
 
 ## General Shortcuts
@@ -51,6 +51,5 @@ CMD + 1 - if you have mutliple files open in the learn ide CMD-1 switches to the
 
 CMD + 2 - to the second, and so on. 
 
-The last two work in Chrome and any other browser to switch to the different tabs you have open. 
-
+The last two work in all web browsers to switch to the different tabs you have open. 
 There are some basic and intermediate shortcuts to help you in your work!
